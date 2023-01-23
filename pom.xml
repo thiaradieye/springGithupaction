@@ -92,8 +92,8 @@
 					</docker>
 				</configuration>
 			</plugin>
-
 		</plugins>
+		<finalName>projet-authentification</finalName>
 	</build>
 
 </project>
